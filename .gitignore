@@ -1,0 +1,8 @@
+#maven ignore
+/.idea
+target/
+src/main/webapp/WEB-INF/classes/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
